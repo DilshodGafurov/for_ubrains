@@ -44,14 +44,14 @@ print(f"slojenie cifr raven :  {var.get('+')}")
 # operator  - 
 print(f"vichitanie cifr raven :  {var.get('-')}")
 # operator  * 
-print(f"umnojenie a*b raven :  {var.get('*')}")
+print(f"umnojenie {a}*{b} raven :  {var.get('*')}")
 # operator  / 
-print(f"delenie a/b raven :  {var.get('/')}")
+print(f"delenie {a}/{b} raven :  {var.get('/')}")
 # operator vozvedenie v stepen  **
-print(f"vozvedenie v stepen a^b raven :  {var.get('-')}")
+print(f"vozvedenie v stepen {a}^{b} raven :  {var.get('**')}")
 # operator  % 
-print(f"ostatok ot delenie a%b raven :  {var.get('%')}")
+print(f"ostatok ot delenie {a}%{b} raven :  {var.get('%')}")
 # operator  // 
-print(f"celochislennoe delenie raven :  {var.get('-')}")
+print(f"celochislennoe delenie {a}//{b} raven :  {var.get('//')}")
 
 
