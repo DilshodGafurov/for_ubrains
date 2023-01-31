@@ -36,7 +36,7 @@ import calc as cl
 
 
 
-var = cl.SimpleCalculator(10, -5, 4,6,2,-6,7,7)
+var = cl.SimpleCalculator(10, 3, 4,6,2,-6,7,7)
 a,b,cifr = var.declare()
 print(f"peremennix :\n\t\ta = {a}\n\t\tb = {b}\n\t\tnumbers = {cifr}")
 # operator  + 
